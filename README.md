@@ -6,7 +6,7 @@ My name is Rouis Abdelkader and I'm a dotnet developer, from **<span style="colo
 
 ## About me
 
-I use **<span style="color: #7b68ee;">.NET</span>** ecosystem to create backend / frontend web solutions to real-world problems.
+I use **<span style="color: #7b68ee;">.NET</span>** ecosystem to create backend / frontend web solutions.
 
 ---
 
