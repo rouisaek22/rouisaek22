@@ -18,8 +18,8 @@ I use **.NET** ecosystem to create backend/frontend web solutions.
 | Windows        | JavaScript| MongoDB                |                  | Docker              |
 |                | CSS3      | PostgreSQL             |                  | Git                 |
 |                | HTML5     | SQL Server             |                  | Visual Studio Code  |
-|                |           | SQL                    |                  |                     |
-|                |           | SQLite                 |                  |                     |
+|                | SQL       | SQLite                 |                  |                     |
+
 
 ---
 
