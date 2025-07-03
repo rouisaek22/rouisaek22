@@ -1,6 +1,6 @@
 ## What's up?
 
-My name is Rouis Aek and I'm a dotnet developer, from **<span style="color: green;">A</span><span style="color: red;">l</span><span style="color: white;">g</span>eria**.
+My name is Rouis Abdelkader and I'm a dotnet developer, from **<span style="color: green;">A</span><span style="color: red;">l</span><span style="color: white;">g</span>eria**.
 
 ---
 
