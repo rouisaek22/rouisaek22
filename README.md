@@ -14,9 +14,9 @@ I use **.NET** ecosystem to create backend/frontend web solutions.
 
 | OS / Platforms | Languages | Databases / ORMs       | Frameworks       | Others              |
 |----------------|-----------|------------------------|------------------|---------------------|
-| Linux          | C#        | Entity Framework Core  | ASP.NET Core     | Bash                |
-| Windows        | JavaScript| MongoDB                |                  | Docker              |
-|                | CSS3      | PostgreSQL             |                  | Git                 |
+| Linux          | C#        | Entity Framework Core  | .NET Core     | Bash                |
+| Windows        | JavaScript| MongoDB                | ASP.NET Core  | Docker              |
+|                | CSS3      | PostgreSQL             | Blazor        | Git                 |
 |                | HTML5     | SQL Server             |                  | Visual Studio Code  |
 |                | SQL       | SQLite                 |                  |                     |
 
