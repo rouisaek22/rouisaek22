@@ -6,7 +6,7 @@ My name is Rouis Abdelkader, and I'm a .NET web developer based in Algeria.
 
 ## About me
 
-I use **.NET** ecosystem to create backend/frontend web solutions.
+I use the .NET ecosystem to build backend and frontend web solutions.
 
 ---
 
@@ -23,3 +23,7 @@ I use **.NET** ecosystem to create backend/frontend web solutions.
 
 ---
 
+## Interests
+- Low-level programming (C/C++, Rust, assembly, embedded systems)
+- Computer networking (protocols, sockets, network security)
+- Performance optimization and systems programming
