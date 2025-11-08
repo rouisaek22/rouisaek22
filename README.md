@@ -24,10 +24,10 @@ Others: Bash, Git, Docker, VSCode, Powershell
 
 ---
 
- Currently I'm learning python web frameworks plus ReactJS, SCSS, Tailwind and Bootstrap 
+ Currently I'm building an HTTP web server from the Ground up using C# Sockets.
  
 ---
 ## Interests
-- Low-level programming (C/C++, Rust, assembly, embedded systems)
+- Low-level programming (C/C++, assembly, embedded systems)
 - Computer networking (protocols, sockets, network security)
 - Performance optimization and systems programming
