@@ -6,7 +6,7 @@ My name is Rouis Abdelkader, and I'm a .NET web developer based in Algeria.
 
 ## About me
 
-I use the .NET ecosystem to build backend and frontend web solutions. I like to explore other programming languages and frameworks
+I use the .NET ecosystem to build backend and frontend web solutions.
 
 ---
 
@@ -24,7 +24,7 @@ Others: Bash, Git, Docker, VSCode, Powershell
 
 ---
 
- Currently I'm building an HTTP web server from the Ground up using C# Sockets.
+ Currently I'm building an `HTTP` parser using `C#`.
  
 ---
 ## Interests
