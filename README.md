@@ -1,12 +1,6 @@
-## Hey 👋🏻 What's up?
+## Good Evening!
 
-My name is Rouis Abdelkader, and I'm a .NET web developer based in Algeria.
-
----
-
-## About me
-
-I use the .NET ecosystem to build backend and frontend web solutions.
+My name is Rouis Abdelkader, a .NET web developer. I use the .NET ecosystem to create backend/frontend web solutions.
 
 ---
 
@@ -14,11 +8,17 @@ I use the .NET ecosystem to build backend and frontend web solutions.
 
 Platforms: Linux, Windows
 
-Languages: C, C#, JS/TS, Python, HTLM, CSS
+Languages: C, C#, JS, Python, HTLM, CSS
 
 Databases / ORMs: EF Core, SQL Server, SQLite, PostgreSQL, MongoDB, Firebase
 
-Frameworks: .NET Core, ASP.NET Core, React,
+Frameworks: .NET Core, ASP.NET Core
+
+---
+
+## Currently 
+
+I'm learning React with TypeScript.
 
 
 ---
