@@ -18,8 +18,8 @@ Frameworks: .NET Core, ASP.NET Core
 
 ## Currently 
 
-I'm learning React with TypeScript.
-
+- Learning React with TypeScript.
+- Diving into Web security.
 
 ---
 ## Interests
