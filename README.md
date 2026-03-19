@@ -14,20 +14,15 @@ I use the .NET ecosystem to build backend and frontend web solutions.
 
 Platforms: Linux, Windows
 
-Languages: C, C#, JavaScript, Python, HTLM5, CSS3, SQL
+Languages: C, C#, JS/TS, Python, HTLM, CSS
 
 Databases / ORMs: EF Core, SQL Server, SQLite, PostgreSQL, MongoDB, Firebase
 
-Frameworks: .NET Core, ASP.NET Core, WPF, Blazor
+Frameworks: .NET Core, ASP.NET Core, React,
 
-Others: Bash, Git, Docker, VSCode, Powershell
 
----
-
- Currently I'm building an `HTTP` parser using `C#`.
- 
 ---
 ## Interests
-- Low-level programming (C/C++, assembly, embedded systems)
-- Computer networking (protocols, sockets, network security)
-- Performance optimization and systems programming
+- Low-level programming
+- Computer networking and security
+- Performance optimization
