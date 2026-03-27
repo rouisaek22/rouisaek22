@@ -20,7 +20,7 @@ My name is Rouis Abdelkader, a .NET web developer 👨‍💻. I use the .NET ec
 
 - 📘 Learning React with TypeScript  
 - 🔐 Diving into Web security  
-
+- 💻 Working on a SaaS project
 ---
 
 ## 🎯 Interests
